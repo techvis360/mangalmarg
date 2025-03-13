@@ -82,7 +82,7 @@
 		}
 	},
 	"site_footer": {
-		"all_rights_reserved_text": "© 2024 BooliiTheme Company, Inc. All rights reserved."
+		"all_rights_reserved_text": "© 2025 Mangalmarg. All rights reserved."
 	},
 	"single_page": {
 		"show_view_cout": true,
@@ -94,16 +94,16 @@
 			"title": "Recommended searches",
 			"items": [
 				{
-					"title": "Programming",
-					"url": "/search/posts/programming"
+					"title": "Chardham",
+					"url": "/search/posts/chardham"
 				},
 				{
-					"title": "Design",
-					"url": "/search/posts/design"
+					"title": "Jyotirlinga",
+					"url": "/search/posts/jyotirlinga"
 				},
 				{
-					"title": "Technology",
-					"url": "/search/posts/technology"
+					"title": "Shaktipeeth",
+					"url": "/search/posts/shaktipeeth"
 				}
 			]
 		},
