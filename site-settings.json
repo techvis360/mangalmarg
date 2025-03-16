@@ -216,7 +216,7 @@
 		"sub_title": "Read and share new perspectives on just about any topic. Everyone’s welcome."
 	},
 	"contact_page": {
-		"enable": true,
+		"enable": false,
 		"title": "Get in touch",
 		"sub_title": "We’d love to hear from you. Fill out the form below to get in touch with us.",
 		"form": {
