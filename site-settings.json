@@ -17,8 +17,6 @@
 		"right_image": "/images/SVG-subcribe2.png",
 		"features_list": ["Create a free account.", "Write your stories."]
 	},
-	}
-	},
 	"top_category_section": {
 		"enable": true,
 		"title": "Discover top 10 categories",
